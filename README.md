@@ -60,6 +60,49 @@
 
 ###
 
+<!-- 🌱 ABOUT SECTION STARTS HERE -->
+
+<h2 align="center">🌱 About Me</h2>
+
+<p align="center">
+  Hi! I'm <strong>Pranam</strong>, an engineering student who loves turning ideas into working prototypes.<br>
+  I learn by building, breaking things, fixing them, and repeating that cycle until it works.<br>
+  I'm currently exploring full-stack development, modern web frameworks, and product-thinking.
+</p>
+
+<p align="center">
+  Hackathon enthusiast • Curious learner • Always trying to improve one project at a time.
+</p>
+
+###
+
+<h2 align="center">🚀 What I'm Building / Learning</h2>
+
+<p align="center">
+  Writing cleaner frontend components • Understanding backend logic deeper •<br>
+  Becoming more consistent • Learning by shipping, not just watching tutorials.
+</p>
+
+###
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  Top 10 – IIT Kanpur ML Hackathon • 2nd Runner-Up – Mental Health Innovation Hackathon • Member of SOSC
+</p>
+
+###
+
+<h2 align="center">✨ Fun Stuff</h2>
+
+<p align="center">
+  When I'm not coding, you’ll probably find me experimenting in the kitchen.
+</p>
+
+###
+
+<!-- 🌱 ABOUT SECTION ENDS HERE -->
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
