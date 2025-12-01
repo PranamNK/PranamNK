@@ -55,8 +55,8 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/PranamNK/PranamNK/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
